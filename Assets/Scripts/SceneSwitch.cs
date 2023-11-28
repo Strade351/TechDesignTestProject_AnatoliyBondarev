@@ -7,7 +7,7 @@ public class SceneSwitch : MonoBehaviour
 {
     public int sceneNumber;
 
-    void OnMouseDown()
+    public void ChangeScene()
     {
         SceneManager.LoadScene(sceneNumber,  LoadSceneMode.Single);
     }
