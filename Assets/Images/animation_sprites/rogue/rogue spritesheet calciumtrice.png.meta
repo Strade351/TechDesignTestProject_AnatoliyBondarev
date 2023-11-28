@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: ed1eafb007559dc44a453866c739ecf1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa923924713a3e4c9351cb893a040fa
+      internalID: 119336019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0c418590630954e85b9af5583bd37b
+      internalID: 1819353071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4f16087d37a1f47b62d4b1d7732995
+      internalID: -673043530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ded7a2774fde5489b98b9a99104583
+      internalID: -1092562565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c9f66ec39c171409830e35b5e7a30d
+      internalID: -1849281448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0081acae2a2440a648c37347c0350
+      internalID: 1213043548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8f0f7239343b43bbb47f19e31c4d2
+      internalID: 709822955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a398c0a4c36606a41aad2bea62a082b7
+      internalID: -1027519411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1cffb8696b0104da1777e308f75829
+      internalID: -1666688847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rogue spritesheet calciumtrice_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f47787dadb4947a2b8ccbd7eaaf31
+      internalID: -1441955672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rogue spritesheet calciumtrice_9: -1441955672
+      rogue spritesheet calciumtrice_52: -1950550165
+      rogue spritesheet calciumtrice_46: 845084907
+      rogue spritesheet calciumtrice_78: -2026911719
+      rogue spritesheet calciumtrice_70: 1464797564
+      rogue spritesheet calciumtrice_63: -1652109948
+      rogue spritesheet calciumtrice_73: -996823349
+      rogue spritesheet calciumtrice_18: -761148783
+      rogue spritesheet calciumtrice_33: -49965626
+      rogue spritesheet calciumtrice_41: -1443093619
+      rogue spritesheet calciumtrice_81: 1190737335
+      rogue spritesheet calciumtrice_24: 1406852742
+      rogue spritesheet calciumtrice_94: -1023513532
+      rogue spritesheet calciumtrice_56: 1401489002
+      rogue spritesheet calciumtrice_76: 1003119068
+      rogue spritesheet calciumtrice_3: -1092562565
+      rogue spritesheet calciumtrice_36: 2023677183
+      rogue spritesheet calciumtrice_60: -478296064
+      rogue spritesheet calciumtrice_61: 1562448108
+      rogue spritesheet calciumtrice_93: -72946144
+      rogue spritesheet calciumtrice_82: -777448187
+      rogue spritesheet calciumtrice_98: 1524381897
+      rogue spritesheet calciumtrice_95: 299207559
+      rogue spritesheet calciumtrice_87: -652168359
+      rogue spritesheet calciumtrice_96: -599634617
+      rogue spritesheet calciumtrice_44: -1861248741
+      rogue spritesheet calciumtrice_11: 1039016992
+      rogue spritesheet calciumtrice_49: -626585429
+      rogue spritesheet calciumtrice_83: 1563310752
+      rogue spritesheet calciumtrice_12: -1797040792
+      rogue spritesheet calciumtrice_14: -1190743878
+      rogue spritesheet calciumtrice_38: 548237415
+      rogue spritesheet calciumtrice_85: -1868053213
+      rogue spritesheet calciumtrice_27: -941925418
+      rogue spritesheet calciumtrice_75: 2077190568
+      rogue spritesheet calciumtrice_51: -895751657
+      rogue spritesheet calciumtrice_17: 2673089
+      rogue spritesheet calciumtrice_88: -1855321475
+      rogue spritesheet calciumtrice_4: -1849281448
+      rogue spritesheet calciumtrice_8: -1666688847
+      rogue spritesheet calciumtrice_54: -450577847
+      rogue spritesheet calciumtrice_34: -978403842
+      rogue spritesheet calciumtrice_68: 150737638
+      rogue spritesheet calciumtrice_65: 680647357
+      rogue spritesheet calciumtrice_42: -796186184
+      rogue spritesheet calciumtrice_90: 1324250727
+      rogue spritesheet calciumtrice_84: -1791508028
+      rogue spritesheet calciumtrice_39: 1477576565
+      rogue spritesheet calciumtrice_66: -475861223
+      rogue spritesheet calciumtrice_80: -1470682873
+      rogue spritesheet calciumtrice_55: 269266792
+      rogue spritesheet calciumtrice_31: -1238374147
+      rogue spritesheet calciumtrice_64: 1975820802
+      rogue spritesheet calciumtrice_45: -1827766564
+      rogue spritesheet calciumtrice_43: 2146121163
+      rogue spritesheet calciumtrice_89: -603287356
+      rogue spritesheet calciumtrice_6: 709822955
+      rogue spritesheet calciumtrice_59: 1472220931
+      rogue spritesheet calciumtrice_21: -1632264694
+      rogue spritesheet calciumtrice_47: -405237809
+      rogue spritesheet calciumtrice_2: -673043530
+      rogue spritesheet calciumtrice_13: -433521464
+      rogue spritesheet calciumtrice_25: 1647654432
+      rogue spritesheet calciumtrice_79: 318153961
+      rogue spritesheet calciumtrice_53: -1502200696
+      rogue spritesheet calciumtrice_86: -289690065
+      rogue spritesheet calciumtrice_71: 284093937
+      rogue spritesheet calciumtrice_7: -1027519411
+      rogue spritesheet calciumtrice_58: 956943813
+      rogue spritesheet calciumtrice_37: -2065546654
+      rogue spritesheet calciumtrice_10: 1801252962
+      rogue spritesheet calciumtrice_30: -1852004625
+      rogue spritesheet calciumtrice_15: -1302284459
+      rogue spritesheet calciumtrice_32: -595717852
+      rogue spritesheet calciumtrice_0: 119336019
+      rogue spritesheet calciumtrice_5: 1213043548
+      rogue spritesheet calciumtrice_16: 695028230
+      rogue spritesheet calciumtrice_57: -523946125
+      rogue spritesheet calciumtrice_92: 1646267601
+      rogue spritesheet calciumtrice_40: -2045105884
+      rogue spritesheet calciumtrice_19: -332697330
+      rogue spritesheet calciumtrice_62: -1231057075
+      rogue spritesheet calciumtrice_28: -177406912
+      rogue spritesheet calciumtrice_29: -528450520
+      rogue spritesheet calciumtrice_22: -1185586258
+      rogue spritesheet calciumtrice_77: -1354186447
+      rogue spritesheet calciumtrice_91: 749942955
+      rogue spritesheet calciumtrice_26: -2083383420
+      rogue spritesheet calciumtrice_67: 1594038813
+      rogue spritesheet calciumtrice_23: -528591289
+      rogue spritesheet calciumtrice_48: 426726065
+      rogue spritesheet calciumtrice_50: -426566153
+      rogue spritesheet calciumtrice_99: 1903967634
+      rogue spritesheet calciumtrice_72: 2035326132
+      rogue spritesheet calciumtrice_1: 1819353071
+      rogue spritesheet calciumtrice_74: 94012067
+      rogue spritesheet calciumtrice_35: -600778080
+      rogue spritesheet calciumtrice_97: -173187897
+      rogue spritesheet calciumtrice_20: -701523564
+      rogue spritesheet calciumtrice_69: 277978159
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
