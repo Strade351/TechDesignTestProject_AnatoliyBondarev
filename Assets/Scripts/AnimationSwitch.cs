@@ -8,6 +8,6 @@ public class AnimationSwitch : MonoBehaviour
 
     void OnMouseDown()
     {
-        anim.Play("waitingAnimation", -1, 0.25f);
+        anim.Play("action", -1, 0.25f);
     }
 }
