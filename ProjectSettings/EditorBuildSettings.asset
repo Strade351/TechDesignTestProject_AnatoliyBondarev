@@ -11,4 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scene_industrial_2.unity
     guid: 08ccf7c31bdedee43a940be9d421f8a3
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 01c94fb8f17978e4eb650e5f1bb7324e, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 91cf7e1f1877b5b4baeb39da47089a79, type: 2}
